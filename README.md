@@ -1,5 +1,5 @@
 # auto-for-everyone
-##An open-source effort to help all teams achieve a cross-the-line auto in 2018
+An open-source effort to help all teams achieve a cross-the-line auto in 2018
 
 Feel free to copy these autos into your own code and use them however you like.
 
