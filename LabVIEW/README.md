@@ -12,3 +12,9 @@ AutoDrive.vi
   - Time (in ms) to wait before driving
   - Speed to drive at 
   - Time (in ms) to drive forward
+
+## Implementation Example
+![alt text](https://raw.githubusercontent.com/FRC5254/auto-for-everyone/master/LabVIEW/Implementation_Exampled.png)
+## Auto Drive
+![alt text](https://raw.githubusercontent.com/FRC5254/auto-for-everyone/master/LabVIEW/AutoDrive.png)
+
